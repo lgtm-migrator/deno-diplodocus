@@ -15,6 +15,7 @@ Image is automatically centered.
 
 ```markdown
 <!-- markdown -->
+
 ![image](kawarimiku_v4x.png)
 ```
 
